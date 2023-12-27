@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`when rendering FormMonthAndYearPicker snapshot match 1`] = `
+<div
+  class="MuiFormControl-root css-b2xexh-FormControlStyled ekdgj6n0"
+>
+  <label
+    class="MuiFormControlLabel-root  css-g9wtmv-FormControlLabelStyled ekdgj6n1"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+    >
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+      >
+        <input
+          aria-describedby="date-helper-text"
+          aria-hidden="false"
+          aria-invalid="false"
+          aria-label="Date"
+          autocomplete="off"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          id="date"
+          name="date"
+          placeholder="Please select a date"
+          readonly=""
+          type="text"
+          value="August, 2021"
+        />
+        <div
+          class="MuiInputAdornment-root css-14syd4-InputAdornmentStyled ekdgj6n2 MuiInputAdornment-positionStart"
+        >
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 14 16"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="m12.2383 14.2383v-8.22658h-10.47658v8.22658zm-2.25002-13.500019h1.51172v1.511719h.7383c.3984 0 .75.15234 1.0547.45703s.457.65625.457 1.05469v10.47658c0 .3984-.1523.75-.457 1.0547s-.6563.457-1.0547.457h-10.47658c-.42188 0-.785158-.1523-1.089845-.457-.28125-.3047-.421875-.6563-.421875-1.0547v-10.47658c0-.39844.140625-.75.421875-1.05469.304687-.30469.667965-.45703 1.089845-.45703h.73828v-1.511719h1.51172v1.511719h5.97656zm.77342 8.261719v3.7617h-3.7617v-3.7617z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-2"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained MuiFormHelperText-filled"
+        id="date-helper-text"
+      />
+    </div>
+    <span
+      class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+    >
+      Date
+    </span>
+  </label>
+</div>
+`;
+
+exports[`when rendering FormMonthAndYearPicker snapshot match 2`] = `
+Object {
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+}
+`;

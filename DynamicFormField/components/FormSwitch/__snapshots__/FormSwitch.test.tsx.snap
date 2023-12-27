@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSwitch snapshot match 1`] = `
+<div
+  class="css-1uxw6he-ContainerStyled e17m884d1"
+>
+  <div
+    class="css-8jys7u-BodyStyled e17m884d2"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root css-1q2zhaq-InputLabelStyled e17m884d4 MuiInputLabel-animated"
+      font-weight="700"
+      for="tou"
+    >
+      Terms of use and Privacy notice*
+    </label>
+    <div
+      class="MuiFormControl-root"
+    >
+      <span
+        class="MuiSwitch-root css-1kcy543-StyledSwitch e1mmj7rs0"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1 MuiSwitch-switchBase MuiSwitch-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              aria-label="Terms of use and Privacy notice*"
+              class="PrivateSwitchBase-input-4 MuiSwitch-input"
+              id="switch_id"
+              type="checkbox"
+              value=""
+            />
+            <span
+              class="MuiSwitch-thumb"
+            />
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiSwitch-track"
+        />
+      </span>
+    </div>
+  </div>
+  <div
+    class="css-t8o0nl-FooterStyled e17m884d3"
+  >
+    <span
+      class="css-1ji3mfx-FormSwitchTextStyled e17m884d0"
+    >
+      I acknowledge that I have read and accepted the Terms and Conditions and Privacy Policy
+    </span>
+  </div>
+</div>
+`;

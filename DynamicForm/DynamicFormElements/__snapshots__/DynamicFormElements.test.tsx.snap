@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DynamicFormElements snapshot match 1`] = `
+<div
+  class="css-1xmhdvm-DynamicFormElementsWrapper e1eif95i3"
+>
+  <div
+    class="MuiGrid-root css-j2cnae-DynamicFormElementsContainer e1eif95i0 MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+    gutter="true"
+  >
+    <div
+      class="MuiGrid-root css-1903me5-DynamicFormFieldWrapper e1eif95i1 MuiGrid-item"
+    >
+      <div
+        class="MuiFormControl-root css-b2xexh-FormControlStyled e374ptj0"
+      >
+        <label
+          class="MuiFormControlLabel-root  css-1gf5067-FormControlLabelStyled e374ptj1"
+          id=""
+        >
+          <div
+            class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+          >
+            <div
+              class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+            >
+              <input
+                aria-describedby="formTextField-helper-text"
+                aria-hidden="false"
+                aria-invalid="false"
+                aria-label="Text Field"
+                class="MuiInputBase-input MuiOutlinedInput-input"
+                id="formTextField"
+                name="formTextField"
+                placeholder=""
+                type="text"
+                value=""
+              />
+              <fieldset
+                aria-hidden="true"
+                class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+                style="padding-left: 8px;"
+              >
+                <legend
+                  class="PrivateNotchedOutline-legend-2"
+                  style="width: 0.01px;"
+                >
+                  <span>
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+            <p
+              class="MuiFormHelperText-root MuiFormHelperText-contained"
+              id="formTextField-helper-text"
+            />
+          </div>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Text Field
+          </span>
+        </label>
+         
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root css-1903me5-DynamicFormFieldWrapper e1eif95i1 MuiGrid-item"
+    >
+      <div
+        class="MuiFormControl-root css-gdldrm-FormControlStyled e1y7dzbg0"
+      >
+        <label
+          class="MuiFormControlLabel-root css-tvaf49-FormControlLabelStyled e1y7dzbg2"
+          id=""
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-5 MuiCheckbox-root MuiCheckbox-colorPrimary css-5hszho-CheckboxStyled e1y7dzbg3 MuiIconButton-colorPrimary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                aria-hidden="false"
+                aria-label="Form Checkbox"
+                class="PrivateSwitchBase-input-8"
+                data-indeterminate="false"
+                id="formCheckbox"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  height="19"
+                  rx="4.5"
+                  stroke="currentColor"
+                  width="19"
+                  x="0.5"
+                  y="0.5"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Form Checkbox
+          </span>
+        </label>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root css-vrwl52-DynamicFormElementsFooter-DynamicFormElementsFooter e1eif95i2 MuiGrid-item"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained css-1gbdiu2-FormButtonStyled e1eif95i4 MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled Mui-disabled"
+        disabled=""
+        id="Form_Id"
+        tabindex="-1"
+        type="submit"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Submit
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DynamicFormElements snapshot match 2`] = `
+Object {
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+}
+`;

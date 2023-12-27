@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSelect snapshot match 1`] = `
+<div
+  class="MuiFormControl-root MuiFormControl-fullWidth"
+>
+  <label
+    class="MuiFormLabel-root MuiInputLabel-root css-ftyd21-InputLabelStyled e1xmma6j0 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-filled Mui-required Mui-required"
+    data-shrink="false"
+    for="Country Selection"
+  >
+    Country / region*
+    <span
+      aria-hidden="true"
+      class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+    >
+       
+      *
+    </span>
+  </label>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-label="Country / region"
+        aria-labelledby="mui-component-select-Country Selection"
+        class="MuiSelect-root makeStyles-rootSelect-4 MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+        id="mui-component-select-Country Selection"
+        role="button"
+        tabindex="0"
+      >
+        <div
+          class="css-wt89bw-FlagStyled e1rb4ngw0"
+        >
+          <img
+            class="css-yqvute-ImgStyled e1rb4ngw1"
+            src="/images/countries/United States of America.svg"
+          />
+        </div>
+        <h4
+          class="MuiTypography-root css-164bkhw-Label e1rb4ngw2 MuiTypography-h4"
+        >
+          United States of America
+        </h4>
+      </div>
+      <input
+        aria-hidden="false"
+        class="MuiSelect-nativeInput"
+        id="country"
+        name="Country Selection"
+        required=""
+        tabindex="-1"
+        value="101"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        style="width: 18px; height: 24px;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          d="M5.23828 7.48828H12.7617L9.70711 10.5429C9.31658 10.9334 8.68342 10.9334 8.29289 10.5429L5.23828 7.48828Z"
+          fill="#273446"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-7 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-8"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FormSelect snapshot match 2`] = `
+Object {
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+}
+`;
